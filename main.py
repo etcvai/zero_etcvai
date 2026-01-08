@@ -2,12 +2,12 @@ import cloudscraper
 import os
 
 # 1. Target URL
-url = "https://akashgo.noobmaster.xyz/?api=iptv_m3u"
+url = "http://172.19.178.180/playlists1/?download=m3u_playlist"
 
 # 2. Exact Headers from your logs
 # We use the 'okhttp' User-Agent and the 'Sportzfy' package name
 headers = {
-    "Host": "akashgo.noobmaster.xyz",
+    "Host": "172.19.178.80",
     "User-Agent": "okhttp/4.12.0",
     "X-Requested-With": "com.falconnew.live",
     "Accept-Encoding": "gzip"
