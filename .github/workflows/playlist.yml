@@ -2,8 +2,8 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch:      # Allows manual run
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,24 +23,22 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests
+          pip install cloudscraper requests
 
       - name: Run Extraction Script
         run: python main.py
 
       - name: Commit and Push
         run: |
-          # 1. Configure Git
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 2. Check if file exists before adding
           if [ -f "iptv.m3u" ]; then
             git add iptv.m3u
             git commit -m "Auto-update playlist" || echo "No changes to commit"
             git push
           else
-            echo "⚠️ File iptv.m3u was not created. Skipping commit."
-            exit 1 # Fail the workflow so you know something is wrong
+            echo "⚠️ Playlist not downloaded. Exiting..."
+            exit 1
           fi
           
