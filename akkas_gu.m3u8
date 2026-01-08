@@ -1,0 +1,108 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="falconcast" tvg-name="FalconCast" tvg-logo="https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true" group-title="Promo",FalconCast
+https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=165&ltoken=AcpSj4ZfUEB0G_i25X2kxxmFDGah0bdcqXKlHfFog7CA-G0TzkaDBNisPBOoI0tM2HXezS8hsfHSldY2exRtlpTgahYyLR2u-u8VnDPonI4uRnbCNHG3EytrbZwQ_IYQ9XWr8DERxTMHLwAqAzqkCymmNRRCzMGSiX_xB9zegqYgUr-fWvFsdjVjHiDAFaQ1eg
+#EXTINF:-1 tvg-id="1" tvg-name="BPL" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1766597795705.png" tvg-chno="1" group-title="Sports",BPL
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=159&ltoken=AWXUEHLj8v2WkBkuBf7emn9x-RJTCLtSzNiEPn4d5Z1nprHe2Xgo5oInqwJXD6uML1cxY1gGF1LMsuNzUYhBSeiAGToWrARGGiopvBCf_cbyrDi3eK6wfukibj4B1OsYN-SbKFgNS7FjUHc9fRUkijdJsMmrHqPLeoQEJ3RnDoaz4mlL7538zOsZ8gLKyprpvQ
+#EXTINF:-1 tvg-id="2" tvg-name="LALIGA Live 1" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717213355.png" tvg-chno="2" group-title="Sports",LALIGA Live 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=160&ltoken=AVgebTWCcRxicTfJyXGkwoH-gB3oHuePH_FuzkSJT6u4uOywHEsWH7gxw8n-FprmlLX_mKCT7vEE4xQJhWUvayLxdVr0maFLyjlVnzQYCCC-3zJlqF8PxfStCHXsDKylKeuUrSWjaiNix3Hnp65WhzSkkqDbF4RbEylzRjm-UDCUqkVla1zR5X9pNkulUZUyrQ
+#EXTINF:-1 tvg-id="3" tvg-name="LALIGA Live 2" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1758717245727.png" tvg-chno="3" group-title="Sports",LALIGA Live 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=154&ltoken=AfUBT5A6l-NJV8jK_jlD37rI8LaiN1QQnfgnIcM3B1xCyhJMvJek3nUe-mWT9mYVzqldMgO-eGZKCuEcYtz5VsFCLi9tz1e4eiMDZfBygJqvA68loOmMz5H48UnLIijUA6URPmwj1d7RX2k8bzIt4S3tFInjmXHaDFxzq1RymlOFz3tv8kFpX1yOYvwCyCDMIw
+#EXTINF:-1 tvg-id="4" tvg-name="Star Sports 1 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1754631932246.png" tvg-chno="4" group-title="Sports",Star Sports 1 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=87&ltoken=AZOWPdcndZjAyX1JIvhGZ0KmXBUITauSJm539PwbwiaacJKZs2ir9toO2qEliAi8fjO9rzm2Z7qEXhOAxW97-z-bOcz0Q1HDZB2_UIEgYIPPnPIrHbmVL6aU6AftStnJ0yoO2X8VuUCIuC1yLQCEynkJz6E0T1W0KtTwlCVnRZ5AZTw8xur-vuLY9J5S-X_tWQ
+#EXTINF:-1 tvg-id="5" tvg-name="Star Sports Select 1 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png" tvg-chno="5" group-title="Sports",Star Sports Select 1 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.mpd
+#EXTINF:-1 tvg-id="6" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="6" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=164&ltoken=AaNz9gvu1uZJA79w7DSuncrUJZIk0iReW5bqU07MZ0igw62ysgVBIsJjACDyRZIyJOI3sBdntNlnRJ7DfHBCZd8Y7GdNyf6RTJsE6qasJQoP0o-Vm-1oQNQO9xC07Fth8TW-RogLbX3-mWGw6aGjHKx0DPPKJyJKZHmxOBhm_iwAykqQiikxUE3pKQY-M0soMg
+#EXTINF:-1 tvg-id="7" tvg-name="Star Sports 2 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1766036289415.png" tvg-chno="7" group-title="Sports",Star Sports 2 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.mpd
+#EXTINF:-1 tvg-id="8" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="8" group-title="News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Deepto TV HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" tvg-chno="9" group-title="Entertainment",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=118&ltoken=AXbden2uTXMUbhsdUds_MCy0oXJEl1EPIzBJQTi4Oz_K3P9qcQPQ4i-YTm3PBwc3NbAG78K95sMA7yeALahkmPGrfvX2eFRklhC54zZE5yv2E4-lssGM6aiUyHHiuElnQ56AyN6HUCrDvHaw6qbaawVKO3Ei1tO2RVBdE4FfqTzo5NkhkOZkMoCKLpetm0szmg
+#EXTINF:-1 tvg-id="10" tvg-name="Sony Sports TEN 1" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png" tvg-chno="10" group-title="Sports",Sony Sports TEN 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=153&ltoken=ASlwwWs1SrByALPEa36PYqEWMFPavZcn8mpse37RAtv_LLXbrveQjgrxB92bi8NNnGuIa6HQVcYYZaY3Iq6_iEgz3Bdk8ERKONnWBnJeVEKXt-Zj1BdKTD7PNyM4u3YXvpRIXohGZx2Hp-doKu7oNrj5CSxuCE-kOQm1QeAxOk_odnLmgSS0DyvLFwvDkAy2Uw
+#EXTINF:-1 tvg-id="11" tvg-name="Ten Cricket" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" tvg-chno="11" group-title="Sports",Ten Cricket
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=89&ltoken=AYG1JBVNEY5YIIlt8FGKgzZfOhVs5HjrhTnsXxdjqEQnGQ2Q83xc4vM3D_gkCAVgGd1n6AfhpRp2x_Zw4l99OH72fCfW87afiTRM3XcbJmTsIkRb5C0n9TVbPlgXvJqhhPDpaMc4zpRWhkmxM9sUxLsJQ0uv5Gfyx0Wd3ifxFasCmowP6JvN9-2q_8NZ3BeCdQ
+#EXTINF:-1 tvg-id="12" tvg-name="Star Sports Select 2 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png" tvg-chno="12" group-title="Sports",Star Sports Select 2 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=116&ltoken=Ab6L6fBn-4SOUDoiZiZ8pzgwwH978gkzTSFVOKaZ0bkTNTq-L45480YcUk1yEsT6MQC26NACoKcQAYdNoWdmyRbeDTIlgXs4lYmMVePXkpNDWKm3ONs0mUaZ8AqfebR49-qZNiD4yOlK1j1yBJ3GZmevHw-j32XPv7gTR86fc2KJMU7MeWUT0XdTh4_4qfyVZA
+#EXTINF:-1 tvg-id="13" tvg-name="Sony Sports TEN 5" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png" tvg-chno="13" group-title="Sports",Sony Sports TEN 5
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=90&ltoken=Afo8AlJklyviLpF_q-JArdNIVa8Urhelo3FtpueHQQvNLs_wpvaZo3ZAnniqbGVcso1BlUCx0jR45uQtXyZ-LE1m6cjsCIspLiX9jYg00ShwB5U34UfQCAX29NkIdp33ZxUHJeQzycM5twoXaxPUhr52cacuCOxszSVGq-H71F050dxGlOc2CGvLFKx03SK5GQ
+#EXTINF:-1 tvg-id="14" tvg-name="Euro Sports HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1765256371720.png" tvg-chno="14" group-title="Sports",Euro Sports HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=117&ltoken=AZ129RiSD03Qim6a8rLoWSysBxRfVn4vOIroPhUHFMFkhMzfJoFBjdjq9Jy8tmCUAds1x6UVXzVnldvkGJayI2C48L5D9Mo4gVbPJoaqRiOOEukKqVoYNHmtPqZqaSYoynmT4mHk_wh026cN3h4FGfeAX8FoFkf-upYmGiNL-iioKLxMJeBAgKXUkshcm9Flig
+#EXTINF:-1 tvg-id="15" tvg-name="Sony Sports TEN 2" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762850019257.png" tvg-chno="15" group-title="Sports",Sony Sports TEN 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=142&ltoken=AQITWWufRe4HTIi7IwhA12c3mExHUGqsbau1DugsEF8KHkktJjLmIJPa5qa5RXWS5ZW8sFtPAnGHolrFIeNqoDYYnj62H7kCK8QjYBkAPC3clc-soU_Z42OL4mm3nazsBMY7JS74SP2zxKj_Z4bBXZkiQpa4qpjzPqNp2ZB7FZWfYV0gwYqKX_B7F7L-mTRPmw
+#EXTINF:-1 tvg-id="16" tvg-name="Sony AATH" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" tvg-chno="16" group-title="Entertainment",Sony AATH
+https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd
+#EXTINF:-1 tvg-id="17" tvg-name="Al Jazeera" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" tvg-chno="17" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=124&ltoken=ASTi7N_BSpW9XMhKJC5429lhr9BcJaL5ohFMvEc0gdsByxNrwMFjZfQzW8iZuXI-aKxq2a0CuakhaGYMd5Nx9KqDfmDD9_XpJtS-GAMhgCUkSs0TZI1Fnmh53VNL6WIOwzabLWmm07M1pzZZI309URsoLwH6LXId5NwkOyRmssS9sV4W3x7TmdnMsMY3qtxFJQ
+#EXTINF:-1 tvg-id="18" tvg-name="Sony Entertainment" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png" tvg-chno="18" group-title="Entertainment",Sony Entertainment
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd
+#EXTINF:-1 tvg-id="19" tvg-name="Channel I HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" tvg-chno="19" group-title="Entertainment",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="ATN Bangla" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png" tvg-chno="20" group-title="Entertainment",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=123&ltoken=AfFT13kPGnK8EDqG-BqExV8Nm9SnIGYuLtnzU-2rC1qIhmWHyrM8o7ShwiB_W68-b4sRF5oShd0Cu8Hzz9zvtCLjeTevu18wLBVox1ev2hItDqrhCcBWTba9l8BFSgJHZPoSxmmBPTc_fvhiUwY1xYZgtnlu9Ex3KZk9V2A-5AMr3nPcTRXaHnIvw57wWsH73w
+#EXTINF:-1 tvg-id="21" tvg-name="STAR GOLD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png" tvg-chno="21" group-title="Movies",STAR GOLD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=143&ltoken=AWoKYs0IrK__3K7OXL2NFw81dGbVeoGUFB35ZIveJNd7HzUV0Va-N9TDoQRY9mXqX3ahgv_NBtE0XP0TEHB18XdUcqExkDs9ebiM6aD3bgK_ZyWJK2mwPhYk-lxVjmpO5rAl_o1FvqHqhyl50fc5pCOFAEQ5ree7M2SQ5cOpcB8ulaJogtxBNKQ3KreoabMc3g
+#EXTINF:-1 tvg-id="22" tvg-name="ZEE BANGLA" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png" tvg-chno="22" group-title="Entertainment",ZEE BANGLA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=86&ltoken=AeMbcZ2eEd97e7g8cGiLNePb_G20aiYbj5e6D3oHK4up8psS30-QzZY-asybtL6GPYrnmcXXqGwVYxGiu-RhqEpLddU6248__VuA5YdDjueWt4p1pK77CNEytomLLIwy59ZTfJv2yphrT4u-K4N03Alosn8jgpLasowL5O99rVvYEmFSpYmg6bxKO9fSrH7dHQ
+#EXTINF:-1 tvg-id="23" tvg-name="Star Jalsha HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png" tvg-chno="23" group-title="Entertainment",Star Jalsha HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=77&ltoken=AdQVVl2LXDl6XQKCru2_D2pzEfr0h8t1keYasNQfB90OnAsR10jUSUrWvMVp-kcggi5A4cjDwkMXMfbFwps0DZWyT4TGJsCBbOvzdogQtBaluP8uh2gfP5izP_d8E1SHNIzpBPZMjNMYiuEXJCcSAN-vM-AjMGNH59UsxP6SwAKlZC_dq4LXWWsrc2eebuYdEw
+#EXTINF:-1 tvg-id="24" tvg-name="Jalsha Movies" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png" tvg-chno="24" group-title="Movies",Jalsha Movies
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.mpd
+#EXTINF:-1 tvg-id="25" tvg-name="Independent TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" tvg-chno="25" group-title="News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.noobmaster.xyz/license.php?cid=82&ltoken=AamFIrtuMQcY2vPDDQq23EP5hzZO9649GqSVzko9cuVm5e7ME810U1Rgm84bXOsqCSTswvZ-Qd0dlTtPyJjdF_7IhdIjo-QqjXURXg7ljBnreBQL9FJ444twvT6AYEuy4EUgjT-bmZSVvMllJwSH90M9hZS-_R3VAyiZQOo0DFld_bfgl2HLvrzwgGaDbhN62Q
+#EXTINF:-1 tvg-id="26" tvg-name="Star Movies HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png" tvg-chno="26" group-title="Movies",Star Movies HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.mpd
+#EXTINF:-1 tvg-id="27" tvg-name="ATN News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" tvg-chno="27" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Bangla Vision" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-chno="28" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Channel 24 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" tvg-chno="29" group-title="News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Ekattor HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" tvg-chno="30" group-title="News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="NTV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" tvg-chno="31" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="BTV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" tvg-chno="32" group-title="Entertainment",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
