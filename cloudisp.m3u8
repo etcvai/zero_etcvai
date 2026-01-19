@@ -77,5 +77,5 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/b5sgygmi5r/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
 
 
-#EXTINF:-1,EMAX TV
+#EXTINF:-1,tvg-logo="https://ibb.co.com/hR3nqpZt", EMAX TV 
 https://nancy-sides-recruitment-wonderful.trycloudflare.com/emax.m3u8
