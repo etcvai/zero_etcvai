@@ -3,7 +3,7 @@ import json
 import sys
 
 # ---------------------------------------------------------
-# CONFIGURATION
+# CONFIGURATION চুরি করা মহান পেশা ভাই, চালিয়ে যা। মাদার*দ চোর এর বাচ্চা।
 # ---------------------------------------------------------
 JSON_URL = "https://psplay.indevs.in/icctv"
 OUTPUT_FILE = "icc.m3u8"
