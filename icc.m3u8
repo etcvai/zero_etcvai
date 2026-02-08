@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MT20: New Zealand v Afghanistan" tvg-name="MT20: New Zealand v Afghanistan" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770485100/prd/tdlanhycsrdexgstoilj" group-title="ICC Live",MT20: New Zealand v Afghanistan
+#EXTINF:-1 tvg-id="MT20: New Zealand v Afghanistan" tvg-name="MT20: New Zealand v Afghanistan" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770533847/prd/x0wmukspvpvhlrbnrznn" group-title="ICC Live",MT20: New Zealand v Afghanistan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=f4c760e4-f3c6-4a55-a8ba-a17336644587
-#EXTINF:-1 tvg-id="MT20: New Zealand v Afghanistan (HINDI)" tvg-name="MT20: New Zealand v Afghanistan (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770485080/prd/xjycp2xktpjrjoo7l9v1" group-title="ICC Live",MT20: New Zealand v Afghanistan (HINDI)
+#EXTINF:-1 tvg-id="MT20: New Zealand v Afghanistan (HINDI)" tvg-name="MT20: New Zealand v Afghanistan (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770533886/prd/xtfyfhs8xavapczv76p4" group-title="ICC Live",MT20: New Zealand v Afghanistan (HINDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
