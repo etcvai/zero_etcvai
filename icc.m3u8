@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=a9b8f36f-dc68-44d7-a329-3e2d99ff223d
-#EXTINF:-1 tvg-id="MT20: England v Nepal (NEPALI)" tvg-name="MT20: England v Nepal (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770534213/prd/gelgueezokobjvbejhqf" group-title="ICC Live",MT20: England v Nepal (NEPALI)
+#EXTINF:-1 tvg-id="MT20: England v Nepal (NEPALI)" tvg-name="MT20: England v Nepal (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770550072/prd/mtrbykyoplebzu1ieusg" group-title="ICC Live",MT20: England v Nepal (NEPALI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -20,3 +20,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=67fd0da8-aa9f-49ac-b82f-a5845e913179
+#EXTINF:-1 tvg-id="MT20: Sri Lanka v Ireland" tvg-name="MT20: Sri Lanka v Ireland" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770549232/prd/ka4teh4xxt4s6r5arnaj" group-title="ICC Live",MT20: Sri Lanka v Ireland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=d9166b3c-4cad-4bd6-8953-982a4957c910
+#EXTINF:-1 tvg-id="MT20: Sri Lanka v Ireland (HINDI)" tvg-name="MT20: Sri Lanka v Ireland (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770549212/prd/li3kretyvh84fnarwwnr" group-title="ICC Live",MT20: Sri Lanka v Ireland (HINDI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=080f9b8b-8f66-4353-b5b5-40ae57c24211
