@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MT20: Pakistan v USA" tvg-name="MT20: Pakistan v USA" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770711541/prd/r9aenfltwpwpfts4m2bf" group-title="ICC Live",MT20: Pakistan v USA
+#EXTINF:-1 tvg-id="MT20: Pakistan v USA" tvg-name="MT20: Pakistan v USA" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770731849/prd/mlayb1udqvffhmbccb17" group-title="ICC Live",MT20: Pakistan v USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=128d1e5f-1112-4bbe-956e-17ec7c972a6d
-#EXTINF:-1 tvg-id="MT20: Pakistan v USA (HINDI)" tvg-name="MT20: Pakistan v USA (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770711604/prd/cugwpw1hrktt0qee6wu5" group-title="ICC Live",MT20: Pakistan v USA (HINDI)
+#EXTINF:-1 tvg-id="MT20: Pakistan v USA (HINDI)" tvg-name="MT20: Pakistan v USA (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770731879/prd/pfhrov8wte9omgxpahgc" group-title="ICC Live",MT20: Pakistan v USA (HINDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=1ebc6353-cad5-4fa8-936a-0d2702fbacff
-#EXTINF:-1 tvg-id="MT20: Pakistan v USA (URDU)" tvg-name="MT20: Pakistan v USA (URDU)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770711578/prd/hukwjji1iyqp4nbsremw" group-title="ICC Live",MT20: Pakistan v USA (URDU)
+#EXTINF:-1 tvg-id="MT20: Pakistan v USA (URDU)" tvg-name="MT20: Pakistan v USA (URDU)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770731842/prd/jltfrwl0jpzjotsr5umt" group-title="ICC Live",MT20: Pakistan v USA (URDU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
