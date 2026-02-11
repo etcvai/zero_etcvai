@@ -3,7 +3,7 @@ import json
 import sys
 
 # ---------------------------------------------------------
-# CONFIGURATION চুরি করা মহান পেশা ভাই, চালিয়ে যা। মাদার*দ চোর এর বাচ্চা।
+# CONFIGURATION
 # ---------------------------------------------------------
 JSON_URL = "https://psplay.indevs.in/icctv/lol.php"
 OUTPUT_FILE = "icc.m3u8"
@@ -16,7 +16,6 @@ def generate_playlist():
     print(f"Fetching data from {JSON_URL}...")
     
     try:
-        # Fetch JSON with headers to ensure we get data
         response = requests.get(JSON_URL, headers={"User-Agent": USER_AGENT}, timeout=30)
         response.raise_for_status()
         data = response.json()
@@ -27,45 +26,35 @@ def generate_playlist():
     m3u_content = ['#EXTM3U']
     count = 0
 
-    tournaments = data.get("tournaments", [])
+    # The new JSON structure has 'live_streams' directly in the root
+    streams = data.get("live_streams", [])
     
-    for tourney in tournaments:
-        streams = tourney.get("live_streams", [])
-        for stream in streams:
-            title = stream.get("title", "Unknown Match")
-            mpd_url = stream.get("mpd")
-            drm_keys = stream.get("keys")  # "kid:key"
-            
-            match_info = stream.get("match", {})
-            logo = match_info.get("thumbnail", "")
+    for stream in streams:
+        title = stream.get("title", "Unknown Match")
+        # Updated key: manifest_Url instead of mpd
+        mpd_url = stream.get("manifest_Url")
+        drm_keys = stream.get("keys")  # "kid:key"
+        
+        match_info = stream.get("match", {})
+        logo = match_info.get("thumbnail", "")
 
-            if mpd_url:
-                # -------------------------------------------------
-                # 1. EXTINF (Metadata)
-                # -------------------------------------------------
-                m3u_content.append(f'#EXTINF:-1 tvg-id="{title}" tvg-name="{title}" tvg-logo="{logo}" group-title="ICC Live",{title}')
-                
-                # -------------------------------------------------
-                # 2. HEADERS (The Fix for OTT Navigator)
-                # -------------------------------------------------
-                # We use #EXTVLCOPT tags which OTT Nav supports, 
-                # instead of appending | to the URL.
-                m3u_content.append(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
-                m3u_content.append(f'#EXTVLCOPT:http-referrer={REFERER}')
-                
-                # -------------------------------------------------
-                # 3. DRM (ClearKey)
-                # -------------------------------------------------
-                m3u_content.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
-                if drm_keys:
-                    m3u_content.append('#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey')
-                    m3u_content.append(f'#KODIPROP:inputstream.adaptive.license_key={drm_keys}')
-                
-                # -------------------------------------------------
-                # 4. CLEAN URL (No pipes!)
-                # -------------------------------------------------
-                m3u_content.append(mpd_url)
-                count += 1
+        if mpd_url:
+            # 1. Metadata
+            m3u_content.append(f'#EXTINF:-1 tvg-id="{title}" tvg-name="{title}" tvg-logo="{logo}" group-title="ICC Live",{title}')
+            
+            # 2. Player Headers (OTT Navigator / VLC)
+            m3u_content.append(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
+            m3u_content.append(f'#EXTVLCOPT:http-referrer={REFERER}')
+            
+            # 3. DRM Config (Kodi / Adaptive Plugins)
+            m3u_content.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
+            if drm_keys:
+                m3u_content.append('#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey')
+                m3u_content.append(f'#KODIPROP:inputstream.adaptive.license_key={drm_keys}')
+            
+            # 4. Stream URL
+            m3u_content.append(mpd_url)
+            count += 1
 
     try:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
