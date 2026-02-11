@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MT20: Australia v Ireland" tvg-name="MT20: Australia v Ireland" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770733930/prd/wmozjfoflq0qigbj1f7u" group-title="ICC Live",MT20: Australia v Ireland
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1770828452~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=a7294866f22d5ce2643bc1aaf7394e046e6c56f2d0ce00501b156a0c902ce61a/manifest.mpd?vcfilter=416b79af-e55f-4c9d-9279-fb6a5314831e&
 #EXTINF:-1 tvg-id="MT20: England v West Indies" tvg-name="MT20: England v West Indies" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770733916/prd/r0iceq2fqkf9jxvqaypa" group-title="ICC Live",MT20: England v West Indies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
