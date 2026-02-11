@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MT20: South Africa v Afghanistan" tvg-name="MT20: South Africa v Afghanistan" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770733944/prd/gzj1olpatiwbfbfsk44y" group-title="ICC Live",MT20: South Africa v Afghanistan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770813819~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=894f2fff3974ad8000db0e958520344b5aca9cb1eba5c4a7038a4e76cf200117/manifest.mpd?vcfilter=bf67cc30-fbb9-4c43-8a5d-c7006f71e372&
-#EXTINF:-1 tvg-id="MT20: South Africa v Afghanistan (HINDI)" tvg-name="MT20: South Africa v Afghanistan (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770733877/prd/efbwwfuauexhted37z3w" group-title="ICC Live",MT20: South Africa v Afghanistan (HINDI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1770828477~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=6bf57fd80ceab8c4debf043cced2aa9befebcecc533fb9549d0b7ffb9534a9a9/manifest.mpd?vcfilter=ebc9ada3-4955-45c8-a2d2-f5f0850d3017&
 #EXTINF:-1 tvg-id="MT20: Australia v Ireland" tvg-name="MT20: Australia v Ireland" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770733930/prd/wmozjfoflq0qigbj1f7u" group-title="ICC Live",MT20: Australia v Ireland
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
