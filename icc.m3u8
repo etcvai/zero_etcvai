@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MT20: India v Namibia" tvg-name="MT20: India v Namibia" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827827/prd/vbfkp2sucf1dylienyvz" group-title="ICC Live",MT20: India v Namibia
+#EXTINF:-1 tvg-id="MT20: India v Namibia" tvg-name="MT20: India v Namibia" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905270/prd/lhyamf7gqflwdxxkcryf" group-title="ICC Live",MT20: India v Namibia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770928898~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=c998facf02b3ef632bf855e574162ee0418bb37f3a6d4f51efd3686d8c7a4f97/manifest.mpd?vcfilter=39d36e9e-3128-45f1-9868-1a5d1d43e6c4&
-#EXTINF:-1 tvg-id="MT20: India v Namibia (HINDI)" tvg-name="MT20: India v Namibia (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827779/prd/peo4efycnp3s2zwba5u9" group-title="ICC Live",MT20: India v Namibia (HINDI)
+#EXTINF:-1 tvg-id="MT20: India v Namibia (HINDI)" tvg-name="MT20: India v Namibia (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905265/prd/tef9tinssgtzccjlqqsu" group-title="ICC Live",MT20: India v Namibia (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
