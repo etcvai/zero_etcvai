@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MT20: Sri Lanka v Oman" tvg-name="MT20: Sri Lanka v Oman" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827733/prd/s9wtmgvltx2ulg7lcomi" group-title="ICC Live",MT20: Sri Lanka v Oman
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770900330~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=2dda7c9a096655f9a024532dae6540d6224d162aab329882a6b0cc5127acd25f/manifest.mpd?vcfilter=b07523f3-71b8-42f0-855d-05bd51421305&
+#EXTINF:-1 tvg-id="MT20: Sri Lanka v Oman (HINDI)" tvg-name="MT20: Sri Lanka v Oman (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770827814/prd/tk2dgcugqud14ylug47i" group-title="ICC Live",MT20: Sri Lanka v Oman (HINDI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1770900335~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=b64b19a3f8120f541caf83b8af50ffe126bc40809f005a1ff2737ba918f98397/manifest.mpd?vcfilter=b1242146-e379-4b2d-8c88-f63e15595d2c&
