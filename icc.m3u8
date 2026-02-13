@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EXTENDERMAXTG" tvg-name="EXTENDERMAXTG" tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="PROMO",EXTENDERMAXTG
 https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
-#EXTINF:-1 tvg-id="MT20: Australia v Zimbabwe" tvg-name="MT20: Australia v Zimbabwe" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905333/prd/nqlhzsm3kkaq0n2ip4xo" group-title="ICC Live",MT20: Australia v Zimbabwe
+#EXTINF:-1 tvg-id="MT20: Canada v United Arab Emirates" tvg-name="MT20: Canada v United Arab Emirates" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905387/prd/vh4csubprbmuskgjmzbg" group-title="ICC Live",MT20: Canada v United Arab Emirates
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770986603~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=804eb7ba2b6c2d6625b9bdba877c7ecbb2a8c27c82873d7bb167432bb9b6bbef/manifest.mpd?vcfilter=1c7d0756-7390-4af5-9a8d-4c597286473c&
-#EXTINF:-1 tvg-id="MT20: Australia v Zimbabwe (HINDI)" tvg-name="MT20: Australia v Zimbabwe (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905340/prd/kvkudtc8ie9ma3ljchn6" group-title="ICC Live",MT20: Australia v Zimbabwe (HINDI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1771001227~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=a103cb16ab7f7db31cf4e3fdf79739cf172ce518fad116e2938d740c63ed69a2/manifest.mpd?vcfilter=9d725f5b-e0c4-4a80-b6ba-4f71c22827aa&
+#EXTINF:-1 tvg-id="MT20: Canada v United Arab Emirates (HINDI)" tvg-name="MT20: Canada v United Arab Emirates (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1770905348/prd/btr76ph262f7uhme21mc" group-title="ICC Live",MT20: Canada v United Arab Emirates (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=225c55ce3bff3d02b71b5dbd42209860:cb5d16c706bbf565df2afa108eccb879
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1770986608~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=62935a6c7a4d43a8e2011fbf540f6a555e2c88448c7450de4d1a2eccdf0aa351/manifest.mpd?vcfilter=aae203c8-4ec8-42c8-b9d5-275167c843ee&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1771001334~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=2eca19ededb2dfb692614736260058d349900763388fe236fc4da69b5578f53c/manifest.mpd?vcfilter=af827393-bc69-45d3-ba4e-b31405f966e5&
