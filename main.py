@@ -10,7 +10,7 @@ OUTPUT_FILE = "icc.m3u8"
 
 # Default Promo Channel Details
 PROMO_TITLE = "EXTENDERMAXTG"
-PROMO_URL = "https://drive.google.com/file/d/1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE/view?usp=drivesdk"
+PROMO_URL = "https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE"
 PROMO_LOGO = "https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg"
 
 def generate_playlist():
