@@ -5,9 +5,9 @@ https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=00d05898-151a-474d-9bb1-d017cc5e7628&hdnts=st=1771047736~exp=1771047776~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=cd608343bb2a5d0553c06b1981fa4d266680f638cd5714a1938a01627e2173ef&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=00d05898-151a-474d-9bb1-d017cc5e7628&hdnts=st=1771051297~exp=1771051337~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=09474e53f8721c6689b8fe1a30828e81b4ca88f1c32cd3d5a09b0e48513f545e&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: Ireland v Oman (HINDI)" tvg-name="MT20: Ireland v Oman (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000754/prd/qqysnowobduyzdwutpmo" group-title="ICC Live",MT20: Ireland v Oman (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8e17b45b-f008-4218-bcc0-23a7087fb489&hdnts=st=1771047740~exp=1771047780~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=80f9dd1555333f2e65bfcc638c577608e3088c09c3ac591a815bc8b7ffe5400a&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=8e17b45b-f008-4218-bcc0-23a7087fb489&hdnts=st=1771051301~exp=1771051341~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2eaf348d44be09899bdd2524b83705992feac8e081610f0385a1d4fb435d2ff8&hdcore=2.11.3
