@@ -1,23 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EXTENDERMAXTG" tvg-name="EXTENDERMAXTG" tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="PROMO",EXTENDERMAXTG
 https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
-#EXTINF:-1 tvg-id="MT20: England v Scotland" tvg-name="MT20: England v Scotland" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000744/prd/gqicjzcbpfp2fmaa3niu" group-title="ICC Live",MT20: England v Scotland
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=7cce6393-60f0-40d0-bf5d-3fc07f4ff4b0&hdnts=st=1771072980~exp=1771073020~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=fe42bb42bc389f6655cf02fee90dc2014b90b1b9bc777ffaa43afa611c8e6979&hdcore=2.11.3
-#EXTINF:-1 tvg-id="MT20: England v Scotland (HINDI)" tvg-name="MT20: England v Scotland (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000752/prd/fdfznzk1r3bpqsngjrar" group-title="ICC Live",MT20: England v Scotland (HINDI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=cea6b832-abb7-4af2-a8a9-e4eff777cf90&hdnts=st=1771072985~exp=1771073025~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c47af56cb90675404ed999a4960f4662b3d873c0fd461cdee5e43b23ccdaf79c&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: New Zealand v South Africa" tvg-name="MT20: New Zealand v South Africa" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000737/prd/b3hddla7fjzsyeuo6q39" group-title="ICC Live",MT20: New Zealand v South Africa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=61d8a012-ea67-4b10-9f2d-929745235adf&hdnts=st=1771072989~exp=1771073029~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e87d680e95878a96191a6db0d0a918919099964c3723667b79ae51f6b473660b&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=61d8a012-ea67-4b10-9f2d-929745235adf&hdnts=st=1771076563~exp=1771076603~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3da7fe6ede2abfc7d3d09525630e2a600afd462b4aa105b1ddea80025b2adf38&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: New Zealand v South Africa (HINDI)" tvg-name="MT20: New Zealand v South Africa (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000752/prd/qxobmox2mkrmjtq8uetd" group-title="ICC Live",MT20: New Zealand v South Africa (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=c9316ffe-0d97-4583-85cb-40c17b4a2c0b&hdnts=st=1771072994~exp=1771073034~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=e477a10bc5d94714c887f26637c2082182fb4d9a3e5b9ac3be50fca4044cf835&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=c9316ffe-0d97-4583-85cb-40c17b4a2c0b&hdnts=st=1771076568~exp=1771076608~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=269593baa529133d1d8ca78af93d6d563f28094320e5ed1f7ba2acd0fc3ed28f&hdcore=2.11.3
