@@ -5,9 +5,9 @@ https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=61d8a012-ea67-4b10-9f2d-929745235adf&hdnts=st=1771076563~exp=1771076603~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=3da7fe6ede2abfc7d3d09525630e2a600afd462b4aa105b1ddea80025b2adf38&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=61d8a012-ea67-4b10-9f2d-929745235adf&hdnts=st=1771079108~exp=1771079148~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=80d7d801baf7fbc496b0381a60f6ad34a1ded0cce0674c2330b2ad2e2bd3cce5&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: New Zealand v South Africa (HINDI)" tvg-name="MT20: New Zealand v South Africa (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771000752/prd/qxobmox2mkrmjtq8uetd" group-title="ICC Live",MT20: New Zealand v South Africa (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=c9316ffe-0d97-4583-85cb-40c17b4a2c0b&hdnts=st=1771076568~exp=1771076608~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=269593baa529133d1d8ca78af93d6d563f28094320e5ed1f7ba2acd0fc3ed28f&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=c9316ffe-0d97-4583-85cb-40c17b4a2c0b&hdnts=st=1771079112~exp=1771079152~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=0e9964d53a37a887b63f5459deb2a0da5732c6b321d1afeb39d85aae4bd6f616&hdcore=2.11.3
