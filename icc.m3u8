@@ -5,19 +5,19 @@ https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=aa7340be-43b4-4fb2-bf91-64578fad51d7&hdnts=st=1771165539~exp=1771165579~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=90af8abbe3cd8833a9ffc793264207b187d90110d5aff94840e6125283990933&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=aa7340be-43b4-4fb2-bf91-64578fad51d7&hdnts=st=1771169018~exp=1771169058~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=522231101fced7beb2cb53bffb51002ce917ed610b6d6afc775809d7bf672250&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: India v Pakistan (HINDI)" tvg-name="MT20: India v Pakistan (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093496/prd/tgpea8nzvzds1yx7idir" group-title="ICC Live",MT20: India v Pakistan (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=f94cfb02-d413-48c0-8d16-cf35ef2d6442&hdnts=st=1771165544~exp=1771165584~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=615ef1f0f7c0a5780f436aa495e23df477c27fc64af203113c77c9f924a7b85a&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=f94cfb02-d413-48c0-8d16-cf35ef2d6442&hdnts=st=1771169023~exp=1771169063~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=465cb8f673a17b80c2bf0f672e72dc10f96bc16ba94798ec9756c75ca4728021&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: India v Pakistan (URDU)" tvg-name="MT20: India v Pakistan (URDU)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771158920/prd/phbck3shzgmhkczwlhza" group-title="ICC Live",MT20: India v Pakistan (URDU)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=edabc261-5f88-4c8f-8a73-b657a525e79c&hdnts=st=1771165548~exp=1771165588~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2a196de15e60cca5de118882be5eafb63608745867d48d8c897b5a3113637adc&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=edabc261-5f88-4c8f-8a73-b657a525e79c&hdnts=st=1771169027~exp=1771169067~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=5e0692140bd708c8a02f89de1ba53d0ffddb8a6409b7baa714528520404970e2&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: India v Pakistan (NEPALI)" tvg-name="MT20: India v Pakistan (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093501/prd/i4tqpyjgkwoiqpht3kch" group-title="ICC Live",MT20: India v Pakistan (NEPALI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=423c6c6d-fb8a-49e8-9edb-66aecff0fbd7&hdnts=st=1771165551~exp=1771165591~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=af78c6851930394520c79e312a38d3d8a3da5b698fe0913a2ccd5efd6dec7cb3&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=423c6c6d-fb8a-49e8-9edb-66aecff0fbd7&hdnts=st=1771169030~exp=1771169070~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=2be647c8ea1e8291a9f2dfa7de8e5628ec87dc96c4b7944b7810f53194fa8f59&hdcore=2.11.3
