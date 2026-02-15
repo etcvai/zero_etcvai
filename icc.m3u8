@@ -5,9 +5,9 @@ https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=e2635061-2c66-45e6-8118-0f6726c46889&hdnts=st=1771151067~exp=1771151107~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=9ba1b1eb7a2e5f60e3cafca8275cf4f028e27a62a298c9da408d96538da13099&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?vcfilter=e2635061-2c66-45e6-8118-0f6726c46889&hdnts=st=1771154450~exp=1771154490~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=8475e19a158dd1d7b31718556534eb498158b71e14ef232941989e18ed73ab83&hdcore=2.11.3
 #EXTINF:-1 tvg-id="MT20: USA v Namibia (HINDI)" tvg-name="MT20: USA v Namibia (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093508/prd/yowep9cm8z2c5w2yhsic" group-title="ICC Live",MT20: USA v Namibia (HINDI)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afabd48c-0d76-4386-8407-2ab1432a3ba1&hdnts=st=1771151072~exp=1771151112~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=f2eb447c0684700a1773116c3f0c7a296419f4ffb55cc7f88c9f45452d5f8056&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/manifest.mpd?vcfilter=afabd48c-0d76-4386-8407-2ab1432a3ba1&hdnts=st=1771154454~exp=1771154494~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c109261e057764553acee31f0dbf01c18f19c627b9013737c14a02f5b73aeb51&hdcore=2.11.3
