@@ -1,23 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EXTENDERMAXTG" tvg-name="EXTENDERMAXTG" tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="PROMO",EXTENDERMAXTG
 https://drive.google.com/uc?export=download&id=1CCtOaagdSgWN2KrZXP1Wll-KJHBlqqXE
-#EXTINF:-1 tvg-id="MT20: India v Pakistan" tvg-name="MT20: India v Pakistan" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093524/prd/bayfczkkc2s3qrmifhxa" group-title="ICC Live",MT20: India v Pakistan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=aa7340be-43b4-4fb2-bf91-64578fad51d7&hdnts=st=1771172863~exp=1771172903~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=afa4b807f8e04ffd34191d11b68a17c10266dfe09440efe2764a10faf6a77a92&hdcore=2.11.3
-#EXTINF:-1 tvg-id="MT20: India v Pakistan (HINDI)" tvg-name="MT20: India v Pakistan (HINDI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093496/prd/tgpea8nzvzds1yx7idir" group-title="ICC Live",MT20: India v Pakistan (HINDI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=f94cfb02-d413-48c0-8d16-cf35ef2d6442&hdnts=st=1771172867~exp=1771172907~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=cb00b524abad0831a7d29a0473da277c22b61f716b7333d0119e254cc73cd618&hdcore=2.11.3
-#EXTINF:-1 tvg-id="MT20: India v Pakistan (URDU)" tvg-name="MT20: India v Pakistan (URDU)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771158920/prd/phbck3shzgmhkczwlhza" group-title="ICC Live",MT20: India v Pakistan (URDU)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/manifest.mpd?vcfilter=edabc261-5f88-4c8f-8a73-b657a525e79c&hdnts=st=1771172871~exp=1771172911~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=a5cbd4abc62157f334fa7afd1068dc65c904a2b30aef31d75bf936229edcf5e0&hdcore=2.11.3
-#EXTINF:-1 tvg-id="MT20: India v Pakistan (NEPALI)" tvg-name="MT20: India v Pakistan (NEPALI)" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size50/v1771093501/prd/i4tqpyjgkwoiqpht3kch" group-title="ICC Live",MT20: India v Pakistan (NEPALI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/manifest.mpd?vcfilter=423c6c6d-fb8a-49e8-9edb-66aecff0fbd7&hdnts=st=1771172874~exp=1771172914~acl=/variant/v1blackout/vcg-01-d/*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~hmac=c6432f5093fdd4c11c57d776e7a8de531e547db500882fa71d94715443defd37&hdcore=2.11.3
